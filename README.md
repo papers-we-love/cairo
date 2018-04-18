@@ -1,11 +1,16 @@
-# Cairo - Update this file and the code of conduct!
+# Cairo
 
 This is the repository for the Cairo chapter of Papers We Love. As a local chapter we follow the Papers We Love [Code of Conduct](https://github.com/papers-we-love/cairo/blob/master/code-of-conduct.md).
 
 ### Information
 
-[Chapter information: who, what, where, when, why]
+We are a community of computer scientists and engineers that are either interested in research papers or desire to get involved in research papers for academic contribution or for improving their career prospects. We deal with papers that have both theoretical and practical inclination but with an increased focus on the practical side. 
+Besides gaining further knowledge, another goal of our meetups is to provide a medium for people to collaborate in conducting new research and start-ups especially that the academic institutions in Egypt are still behind in the quality and quantity of research projects especially in emerging fields like neural networks
+
+Please visit our [Meetup](https://www.meetup.com/Papers-We-Love-Cairo/) page to see information about upcoming meetups, their locations, and the papers to be discussed.
 
 ### Contact
 
-{Names and contact information (twitter, email, etc) of Chapter organizers}
+- **Youssef Sherif** | [GitHub](https://github.com/https://github.com/youssefsharief) | [LinkedIn](https://www.linkedin.com/in/youssefsharief/) | [Email](sharief@aucegypt.edu) | [Twitter](https://twitter.com/youssefmosherif)
+- **Omar Amin** | [LinkedIn](https://www.linkedin.com/in/omar-moh-amin/) | [Email](omar_amin@live.com)
+
