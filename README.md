@@ -11,6 +11,6 @@ Please visit our [Meetup](https://www.meetup.com/Papers-We-Love-Cairo/) page to 
 
 ### Contact
 
-- **Youssef Sherif** | [GitHub](https://github.com/https://github.com/youssefsharief) | [LinkedIn](https://www.linkedin.com/in/youssefsharief/) | [Email](sharief@aucegypt.edu) | [Twitter](https://twitter.com/youssefmosherif)
-- **Omar Amin** | [LinkedIn](https://www.linkedin.com/in/omar-moh-amin/) | [Email](omar_amin@live.com)
+- **Youssef Sherif** | [GitHub](https://github.com/https://github.com/youssefsharief) | [LinkedIn](https://www.linkedin.com/in/youssefsharief/) | [sharief@aucegypt.edu](mailto:sharief@aucegypt.edu) | [Twitter](https://twitter.com/youssefmosherif)
+- **Omar Amin** | [LinkedIn](https://www.linkedin.com/in/omar-moh-amin/) |  [omar_amin@live.com](mailto:omar_amin@live.com)
 
